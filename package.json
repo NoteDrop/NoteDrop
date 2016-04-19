@@ -1,0 +1,28 @@
+{
+  "name": "NoteDrop",
+  "version": "0.0.1",
+  "description": "Bringing social media closer to home",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoteDrop/NoteDrop.git"
+  },
+  "author": "NoteDrop Team",
+  "license": "Apache-2.0.0",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "NoteDrop",
+    "Social Media",
+    "Bulletin Board",
+    "communication"
+  ],
+  "dependencies": {
+    "fs" : ">0.0.1",
+    "validator" : ">0.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/NoteDrop/NoteDrop/issues",
+    "email": "matthew@notedrop.io"
+  },
+  "homepage": "https://notedrop.io"
+}
